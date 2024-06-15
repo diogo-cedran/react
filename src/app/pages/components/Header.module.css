@@ -1,0 +1,10 @@
+/* components/Header.module.css */
+.header {
+    /* Adicione aqui os estilos semelhantes ao do repositório do Squirtle */
+    background-color: #3b4cca; /* exemplo */
+    color: #ffffff;
+    padding: 10px 20px;
+    font-size: 24px;
+    text-align: center;
+    border-radius: 5px;
+  }
